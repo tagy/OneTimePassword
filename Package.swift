@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "OneTimePassword",
     platforms: [
-        .iOS(.v13),
+        .iOS(.v11),
         .macOS(.v10_15),
         .watchOS(.v6),
     ],
